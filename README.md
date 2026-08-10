@@ -3,7 +3,7 @@
 ## 🌐 Live Demo
 
 **View the live dashboard:**
-[Loan Repayment Dashboard](https://emi-calculator-vishaldeep-1.onrender.com?utm_source=chatgpt.com)
+[Loan Repayment Dashboard](https://emi-calculator-vishaldeep-1.onrender.com)
 
 The dashboard is deployed on Render and can be accessed directly from a web browser.
 
@@ -104,6 +104,6 @@ The purpose of this project is to provide a simple and user-friendly tool for ca
 
 B.Sc. Data Science & Business Intelligence
 
-## 📄 License
+## 📄 Licensegit add README.md
 
 This project is available for educational and personal project purposes.
